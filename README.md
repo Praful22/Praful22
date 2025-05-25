@@ -1,7 +1,7 @@
 ## 📝 About Me
 
 
-Welcome! I’m Praful, a researcher and engineer with a passion for decision making and planning, trajectory optimization, advanced control systems development, and simulation. My work bridges mechanical and aerospace engineering, with a focus on developing robust and adaptive solutions for real-world engineering applications. I am driven by the challenge of creating safe, agile, and robust engineering systems capable of functioning in complex environments. Feel free to explore my repositories, raise issues, or reach out for collaborations!
+Welcome! I’m Praful, a researcher and engineer with a passion for decision making and planning, trajectory optimization, advanced control systems development, and simulation. My work bridges mechanical and aerospace engineering, with a focus on developing robust and adaptive solutions for real-world engineering applications. I am driven by the challenge of creating agile and robust engineering systems capable of functioning in complex environments. Feel free to explore my repositories, raise issues, or reach out for collaborations!
 
 ---
 
