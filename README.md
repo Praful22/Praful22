@@ -70,7 +70,7 @@ Low-fidelity 6 Degrees-of-Freedom (6DOF) flight dynamics simulator for the scale
 
 - GitHub: [@Praful22](https://github.com/Praful22)
 - Email: prafulsigdel5@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/praful-sigdel 
 ---
 
 
