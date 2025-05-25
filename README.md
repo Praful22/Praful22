@@ -7,19 +7,28 @@ Welcome! I’m Praful, a researcher and engineer with a passion for decision mak
 
 ## 👨‍🎓 Education
 
-- **B.E. in Mechanical Engineering**  
-  Vanderbilt University
-  *Professional Depth in Dynamics & Control Systems*
+- **B.E. in Mechanical Engineering** \
+  *Professional Depth: Dynamics & Control Systems*\
+  School of Engineering, Vanderbilt University 
+  
+ ![image](https://github.com/user-attachments/assets/578e5083-9482-4387-aee1-8f81d6903b11)
+![vanderbilt-engineering_small](https://github.com/user-attachments/assets/48177b79-4718-4d14-93b9-9cddb3817a0b)
 
-- **M.S. in Aerospace Engineering**  
-  University of Southern California
-  *Specialization: Aerospace Control*
+  
+- **M.S. in Aerospace Engineering**  \
+  *Specialization: Aerospace Control* \
+  Viterbi School of Engineering, University of Southern California
+  
+  <img src="https://github.com/user-attachments/assets/1d68f7ee-2e79-4ae8-abbb-22569cf8362f" alt="VsoE_AME_Form_Horiz_CardonWhite-RGB-01" width="450"/>
+  
+  ✌️ ![usc-trojan](https://github.com/user-attachments/assets/4879f345-9b35-4959-b1c5-9638b997997e)
+![main_university](https://github.com/user-attachments/assets/45349e58-32ec-45bf-b466-3d6fc769b48c)
 
 ---
 
 ## 🛠️ Expertise
 
-- Aerospace Vehicle Modeling, Simulation and Control Systems
+- Aerospace Vehicle Modeling, Simulation, and Control Systems
 - Classical and Modern Control Strategies
 - Embedded Systems and Real-time Control
 - Legged Robot Locomotion & Dynamics
@@ -39,7 +48,7 @@ Trajectory optimization and control stack for the Solo12 quadruped using the XPP
 
 ### [A1-unitree-Quadrupedal-robot](https://github.com/Praful22/A1-unitree-Quadrupedal-robot)
 Development of motion planning and control strategies on Unitree A1 quadruped.
-*Includes control algorithms, and simulation development.*
+
 
 ### [Quadruped-Trajectory-Optimization-Stack](https://github.com/Praful22/Quadruped-Trajectory-Optimization-Stack)
 A modular framework for trajectory optimization in quadrupedal robots.  
