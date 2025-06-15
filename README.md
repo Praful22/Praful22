@@ -35,6 +35,7 @@ Welcome! I’m Praful, a researcher and engineer with a passion for decision mak
 
 - Aerospace Vehicle Modeling, Simulation, and Control Systems
 - Classical and Modern Control Strategies
+- Decision Making
 - Embedded Systems and Real-time Control
 - Legged Robot Locomotion & Dynamics
 - Model Predictive Control (MPC)
