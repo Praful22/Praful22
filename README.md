@@ -40,7 +40,7 @@ Welcome! I’m Praful, a researcher and engineer with a passion for decision mak
 - Model Predictive Control (MPC)
 - Nonlinear, Adaptive, and Robust Control Systems
 - Robotics Software Architecture (ROS, C++, Python)
-- Simulation Environment for Robotics and Aerospace Applications
+- Simulation Environment for Aerospace and Robotics Applications
 - Trajectory Optimization & Planning
 
 ---
