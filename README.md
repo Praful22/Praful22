@@ -16,7 +16,6 @@ Welcome! I’m Praful, a researcher and engineer with a passion for decision mak
   ✌️ ![usc-trojan](https://github.com/user-attachments/assets/4879f345-9b35-4959-b1c5-9638b997997e)
 ![main_university](https://github.com/user-attachments/assets/45349e58-32ec-45bf-b466-3d6fc769b48c)
 
-(P.S.: Associated honor whatsoever, I assure, is of USC's.)
 
 - **B.E. in Mechanical Engineering** \
   *Professional Depth: Dynamics & Control Systems*\
@@ -24,10 +23,6 @@ Welcome! I’m Praful, a researcher and engineer with a passion for decision mak
   
  ![image](https://github.com/user-attachments/assets/578e5083-9482-4387-aee1-8f81d6903b11)
 ![vanderbilt-engineering_small](https://github.com/user-attachments/assets/48177b79-4718-4d14-93b9-9cddb3817a0b)
-
-(P.S.: Associated honor whatsoever, I assure, is of Vanderbilt's.)
-  
-
 
 ---
 
