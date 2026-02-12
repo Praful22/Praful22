@@ -1,6 +1,6 @@
 ## 📝 About Me
 
-I’m passionate about decision-making, advanced control systems development, and simulation for physical dynamical systems. I am driven by the challenge of creating agile and robust engineering systems capable of functioning in complex environments. Feel free to explore my repositories, raise issues, or reach out for collaborations!
+I’m passionate about decision-making, advanced control systems development, and simulation for physical dynamical systems. Feel free to explore my repositories, raise issues, or reach out for collaborations!
 
 ---
 
@@ -9,35 +9,10 @@ I’m passionate about decision-making, advanced control systems development, an
 - **M.S. in Aerospace Engineering**  \
   *Specialization: Aerospace Control* \
   Viterbi School of Engineering, University of Southern California
-  
-  <img src="https://github.com/user-attachments/assets/1d68f7ee-2e79-4ae8-abbb-22569cf8362f" alt="VsoE_AME_Form_Horiz_CardonWhite-RGB-01" width="450"/>
-  
-  ✌️ ![usc-trojan](https://github.com/user-attachments/assets/4879f345-9b35-4959-b1c5-9638b997997e)
-![main_university](https://github.com/user-attachments/assets/45349e58-32ec-45bf-b466-3d6fc769b48c)
-
 
 - **B.E. in Mechanical Engineering** \
   *Professional Depth: Dynamics & Control Systems*\
   School of Engineering, Vanderbilt University 
-  
- ![image](https://github.com/user-attachments/assets/578e5083-9482-4387-aee1-8f81d6903b11)
-![vanderbilt-engineering_small](https://github.com/user-attachments/assets/48177b79-4718-4d14-93b9-9cddb3817a0b)
-
----
-
-## 🛠️ Expertise
-
-- Aerospace Vehicle Modeling, Simulation, and Control Systems
-- Classical and Modern Control Strategies
-- Decision Making
-- Embedded Systems and Real-time Control
-- Legged Robot Locomotion & Dynamics
-- Model Predictive Control (MPC)
-- Nonlinear, Adaptive, and Robust Control Systems
-- Robotics Software Architecture (ROS, C++, Python)
-- Simulation Environment for Aerospace and Robotics Applications
-- Trajectory Optimization & Planning
-
 ---
 
 ## 🚀 Flagship Projects
@@ -65,7 +40,6 @@ Low-fidelity 6 Degrees-of-Freedom (6DOF) flight dynamics simulator for the scale
 
 ## 📫 Contact & Links
 
-- GitHub: [@Praful22](https://github.com/Praful22)
 - Email: prafulsigdel5@gmail.com
 - LinkedIn: https://www.linkedin.com/in/praful-sigdel 
 ---
