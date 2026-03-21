@@ -1,7 +1,6 @@
 ## 📝 About Me
 
-I’m passionate about decision-making, advanced control systems development, and simulation for physical dynamical systems. Feel free to explore my repositories, raise issues, or reach out for collaborations!
-
+I’m passionate about decision-making, advanced control systems development, and simulation for physical dynamical systems.
 ---
 
 ## 👨‍🎓 Education
