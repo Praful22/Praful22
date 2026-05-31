@@ -1,6 +1,6 @@
 ## 📝 About Me
 
-I’m passionate about decision-making, advanced control systems development, and simulation for physical dynamical systems.
+I’m passionate about decision-making, advanced control systems development, modeling and simulation for mechanical and aerospace systems.
 ---
 
 ## 👨‍🎓 Education
@@ -21,11 +21,11 @@ Trajectory optimization and control stack for the Solo12 quadruped using the XPP
 *Features: optimal gait generation, ROS simulation, and hardware integration.*
 
 ### [A1-unitree-Quadrupedal-robot](https://github.com/Praful22/A1-unitree-Quadrupedal-robot)
-Development of motion planning and control strategies on Unitree A1 quadruped. Focuses on scalable, reusable MPC and whole-body control pipelines.
+Development of motion planning and control strategies on Unitree A1 quadrupedal robot. Focuses on scalable, reusable MPC and whole-body control pipelines.
 
 
 ### [Quadruped-Trajectory-Optimization-Stack](https://github.com/Praful22/Quadruped-Trajectory-Optimization-Stack)
-A modular framework for trajectory optimization in quadrupedal robots.  
+A modular framework for trajectory optimization for quadrupedal robots.  
 
 
 ### [ASW28-6DOF-Simulator](https://github.com/Praful22/ASW28-6DOF-Simulator)
@@ -37,9 +37,8 @@ Non-linear 6 Degrees-of-Freedom (6DOF) flight dynamics simulator for a subscale 
 
 ---
 
-## 📫 Contact & Links
+## 📫 Contact Links
 
-- Email: prafulsigdel5@gmail.com
 - LinkedIn: https://www.linkedin.com/in/praful-sigdel 
 ---
 
