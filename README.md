@@ -29,8 +29,8 @@ A modular framework for trajectory optimization in quadrupedal robots.
 
 
 ### [ASW28-6DOF-Simulator](https://github.com/Praful22/ASW28-6DOF-Simulator)
-Low-fidelity 6 Degrees-of-Freedom (6DOF) flight dynamics simulator for the scaled-model ASW28 glider.  
-*Enables aerospace vehicle modeling, control system testing, and simulation-based research.*
+Non-linear 6 Degrees-of-Freedom (6DOF) flight dynamics simulator for a subscale ASW28 aircraft  
+*Enables aerospace vehicle modeling, control system testing, and simulation-based simulator platform.*
 
 ### [Adaptive Control](https://github.com/Praful22/AdaptiveControl)
 *A deep dive into adaptive control techniques for uncertain, nonlinear systems.*  
