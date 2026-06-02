@@ -25,7 +25,7 @@ Development of motion planning and control strategies on Unitree A1 quadrupedal 
 
 
 ### [Quadruped-Trajectory-Optimization-Stack](https://github.com/Praful22/Quadruped-Trajectory-Optimization-Stack)
-A modular framework for trajectory optimization for quadrupedal robots.  
+A modular [framework](https://alexyskoutnev.github.io/Quadruped-Trajectory-Optimization-Stack/) for trajectory optimization for quadrupedal robots.  
 
 
 ### [ASW28-6DOF-Simulator](https://github.com/Praful22/ASW28-6DOF-Simulator)
